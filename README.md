@@ -31,9 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ljp10086" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ljp10086&layout=compact&hide_border=true&langs_count=10" />
-
-![Ljp10086's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljp10086&layout=compact&hide_border=true&langs_count=10)
 </div>
+
 # Action
 
 [![Ljp10086's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ljp10086&theme=xcode)](https://github.com/Ljp10086)
